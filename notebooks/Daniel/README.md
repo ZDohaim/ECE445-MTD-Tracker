@@ -22,7 +22,8 @@ First meeting to come up with potential ideas for senior design project.
 # 2025-09-10 - Proposal Creation
 Meeting to start creating proposal documentation
 - Daniel: Visual aid and a block diagram.
-- <img width="1825" height="990" alt="blockDiagram" src="https://github.com/user-attachments/assets/52fb0858-e097-4e3f-a9e4-11ddf0b8d9f6" />
+- Block Diagram
+<img width="1825" height="990" alt="blockDiagram" src="https://github.com/user-attachments/assets/52fb0858-e097-4e3f-a9e4-11ddf0b8d9f6" />
 
--<img width="1422" height="756" alt="Visual Aid" src="https://github.com/user-attachments/assets/d6d9288a-4cae-4e0d-bd10-8051882ae097" />
-s
+- Visual Aid
+<img width="1422" height="756" alt="Visual Aid" src="https://github.com/user-attachments/assets/d6d9288a-4cae-4e0d-bd10-8051882ae097" />
