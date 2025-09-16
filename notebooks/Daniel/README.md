@@ -22,6 +22,7 @@ First meeting to come up with potential ideas for senior design project.
 # 2025-09-10 - Proposal Creation
 Meeting to start creating proposal documentation
 - Daniel: Visual aid and a block diagram.
+- Brainstormed what the block diagram needs and what components we should consider using.
 
 # 2025-09-14 - Block Diagram and Visual Aid
 - Visual Aid
