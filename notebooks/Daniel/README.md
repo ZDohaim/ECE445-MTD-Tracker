@@ -4,7 +4,7 @@ This directory contains Daniel's notebooks and work for the ECE445 MTD Tracker p
 
 - 2025-09-03 - RFA Creation
 - 2025-09-10 - Proposal Creation
-- 
+- 2025-09-14
 # 2025-09-3 - Brainstorming & RFA
 First meeting to come up with potential ideas for senior design project.
 - Initial Ideas:
@@ -23,6 +23,7 @@ First meeting to come up with potential ideas for senior design project.
 Meeting to start creating proposal documentation
 - Daniel: Visual aid and a block diagram.
 
+# 2025-09-14 - Block Diagram and Visual Aid
 - Visual Aid
 <img width="1963" height="1085" alt="Visual Aid" src="https://github.com/user-attachments/assets/c3b8065c-8ae2-4509-9d80-4cafc5b8311a" />
   
