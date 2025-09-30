@@ -26,5 +26,7 @@ Meeting to start creating proposal documentation
 - Solution: high-level design, why this is better than just a screen
 
 # 2025-09-29 - PCB Design
-- <img width="237" height="295" alt="image" src="https://github.com/user-attachments/assets/cfb3fc56-cdc9-4846-9f4f-caf801beae50" />
+<img width="237" height="295" alt="image" src="https://github.com/user-attachments/assets/cfb3fc56-cdc9-4846-9f4f-caf801beae50" />
+- use the ESP32 s3 wroom 1 (wifi)
+- 
 
