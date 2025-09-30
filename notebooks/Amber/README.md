@@ -3,6 +3,7 @@ This directory contains Amber's notebooks and work for the ECE445 MTD Tracker pr
 
 - 2025-09-03 - RFA Creation
 - 2025-09-10 - Proposal Creation
+- 2025-09-28 - Initial PCB Design
 
 # 2025-09-3 - Brainstorming & RFA
 First meeting to come up with potential ideas for senior design project.
@@ -23,3 +24,7 @@ Meeting to start creating proposal documentation
 - Amber: make the introduction (problem and solution)
 - Problem: students find bus routes too confusing, miss bus
 - Solution: high-level design, why this is better than just a screen
+
+# 2025-09-29 - PCB Design
+- <img width="237" height="295" alt="image" src="https://github.com/user-attachments/assets/cfb3fc56-cdc9-4846-9f4f-caf801beae50" />
+
