@@ -35,6 +35,8 @@ Meeting to start creating proposal documentation
 - CC0805KRX7R9BB104 - 100nF (2)
 - CL21B105KBFNNNE - 1uF
 
+- <img width="1792" height="2484" alt="image" src="https://github.com/user-attachments/assets/b140b522-7185-4191-9431-312bd4baf9a5" />
+
 - Working File Uploaded
-- 
+  
 
