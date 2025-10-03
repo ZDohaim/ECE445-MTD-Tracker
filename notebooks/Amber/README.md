@@ -4,6 +4,7 @@ This directory contains Amber's notebooks and work for the ECE445 MTD Tracker pr
 - 2025-09-03 - RFA Creation
 - 2025-09-10 - Proposal Creation
 - 2025-09-28 - Initial PCB Design
+- 2025-10-2 - PCB Design and Components
 
 # 2025-09-3 - Brainstorming & RFA
 First meeting to come up with potential ideas for senior design project.
@@ -28,5 +29,12 @@ Meeting to start creating proposal documentation
 # 2025-09-29 - PCB Design
 <img width="237" height="295" alt="image" src="https://github.com/user-attachments/assets/cfb3fc56-cdc9-4846-9f4f-caf801beae50" />
 - use the ESP32 s3 wroom 1 (wifi)
+
+# 2025-10-2 - PCB Design and Components
+- CL21A226MAQNNNE - 22uF
+- CC0805KRX7R9BB104 - 100nF (2)
+- CL21B105KBFNNNE - 1uF
+
+- Working File Uploaded
 - 
 
