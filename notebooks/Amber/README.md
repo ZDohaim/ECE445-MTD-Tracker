@@ -47,7 +47,7 @@ Meeting to start creating proposal documentation
   - [CL21B105KBFNNNE](https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL21B105KBFNNNE/3886687) - 1uF    (boot capacitor)
   - [TAJA106K016RNJ](https://www.digikey.com/en/products/detail/kyocera-avx/TAJA106K016RNJ/563762) - 10uF   (step down polarized capacitor)
   - [TCJB226M025R0150E](https://www.digikey.com/en/products/detail/kyocera-avx/TCJB226M025R0150E/10062672)](https://www.digikey.com/en/products/detail/kemet/T529P226M010AAE200/4246277) - 22uF   (step down   polarized capacitor)
-  - PJ-080BH (barrel jack)
+  - barrel jack - https://www.digikey.com/en/products/detail/same-sky-formerly-cui-devices/PJ-080BH/3477153
   - USB - https://www.mouser.com/ProductDetail/GCT/USB4216-03-A?qs=Tc%252BHE9vUsnv1G2UWLFIexA%3D%3D
   - fuse - https://www.digikey.com/en/products/detail/bel-fuse-inc/0ZCF0500FF2A/10445775
     
