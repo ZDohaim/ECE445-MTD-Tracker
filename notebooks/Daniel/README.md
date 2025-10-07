@@ -31,4 +31,18 @@ Meeting to start creating proposal documentation
 - Block Diagram
 <img width="1825" height="990" alt="blockDiagram" src="https://github.com/user-attachments/assets/52fb0858-e097-4e3f-a9e4-11ddf0b8d9f6" />
 
+# 2025-09-20
+- Basic design of the 3d model, making it simpler and figuring out size
+  
+# 2025-09-24
+- Basic design of the 3d model, making it simpler and figuring out size
+
+# 2025-09-29
+- Basic design of the 3d model, making it simpler and figuring out size
+
+# 2025-10-6 
+- Lab meeting, built out a simple breadboard with the LEDs, LED chase, button control, and photoresistor analog input.
+- Added the Arduino code
+  
+
 
