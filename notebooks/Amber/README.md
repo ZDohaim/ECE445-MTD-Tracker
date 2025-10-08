@@ -50,6 +50,8 @@ Meeting to start creating proposal documentation
   - barrel jack - https://www.digikey.com/en/products/detail/same-sky-formerly-cui-devices/PJ-080BH/3477153
   - USB - https://www.mouser.com/ProductDetail/GCT/USB4216-03-A?qs=Tc%252BHE9vUsnv1G2UWLFIexA%3D%3D
   - fuse - https://www.digikey.com/en/products/detail/bel-fuse-inc/0ZCF0500FF2A/10445775
+  - Cap - https://www.digikey.com/en/products/detail/vishay-sfernice/T73YP103KT20/1587813
+  - 3pin led connector - https://www.digikey.com/en/products/detail/te-connectivity-amp-connectors/282837-3/2187974?gclsrc=aw.ds&gad_source=1&gad_campaignid=20234014242&gbraid=0AAAAADrbLlhPA2MnfUI_BIzZuzQG9WJ-m&gclid=EAIaIQobChMIkLTjoJOTkAMVnUr_AR2CVDs0EAQYASABEgJeRPD_BwE
     
 
 
