@@ -68,6 +68,13 @@ Meeting to start creating proposal documentation
 - Datasheet: http://www.advanced-monolithic.com/pdf/ds1117.pdf
 - Preliminary Design:
   - <img width="712" height="465" alt="image" src="https://github.com/user-attachments/assets/5ebda353-ec5f-4a4c-aca8-71256edd1a97" />
+- Logic level shifter for 3.3V to 5V step-up for LED data line:
+  - Based off of schematic for SparkFun logic-level bidirectional
+  - Data sheet: https://cdn.sparkfun.com/datasheets/BreakoutBoards/Logic_Level_Bidirectional.pdf
+  - Example Schematic: <img width="356" height="308" alt="image" src="https://github.com/user-attachments/assets/d434adb5-8896-40eb-8a84-61fd00842916" />
+  - Implemented Design: <img width="513" height="451" alt="image" src="https://github.com/user-attachments/assets/ca971390-01ad-48ee-8f71-f20d26a920fa" />
+
+
 
 
 
