@@ -49,7 +49,9 @@
 
 ![B54E72DD-15F0-4063-979C-1600B46E0ABB_1_105_c](https://github.com/user-attachments/assets/d0a41dbf-c6ee-4eb9-86be-93b8a833e3a3)
 
+**Flowchart**
 
+<img width="491" height="563" alt="Screenshot 2025-12-11 at 2 07 16 PM" src="https://github.com/user-attachments/assets/c3721f2b-ecfa-4868-8440-3dad0afd2672" />
 
 ## Week 5-6: October 13-27, 2025
 ### GPS Mapping Algorithm and LED Integration
@@ -80,6 +82,7 @@ strip.show();
 ```
 
 https://github.com/user-attachments/assets/0354b601-5e5d-42b3-8681-6bb49f9fb9fd
+
 
 
 
@@ -129,8 +132,14 @@ struct GPStoLED {
 
 Segmented the Longitude and Latitude incorrectly, Amber and Daniel fixed.
 Added functionality of the buttons, got stuck on the legend and holding button functionality, Daniel finalized it.
+**Flowchart for button functionality**
+
+
+<img width="484" height="556" alt="Screenshot 2025-12-11 at 2 07 57 PM" src="https://github.com/user-attachments/assets/24a1eb06-2b39-4574-922a-83543b61fd72" />
+
 Added photoresistor and brightness functionallity. 
 Had to adjust some Routes, since the LEDs are connected serially and where a bit random based on the direction and the actual LED segment, so Amber helped a lot with diving that up and testing.
+
 
 ## Week 11: December 1-11, 2024
 **Demo and Final Presentation Done** 
