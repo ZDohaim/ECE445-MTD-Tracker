@@ -25,3 +25,7 @@ The power supply will provide ample power to a large number of LEDs (and the ent
 
 ## Criterion for Success
 To demonstrate the success of our project, we will need to prove the accuracy of the data we are displaying (how accurate are bus timings/locations). Additionally, we will need to show that the data is easy to interpret for a user and can be utilized for easier bus system use.
+
+
+## Demo Video
+https://youtube.com/shorts/ADJun_s7ysQ?si=JwPbscHMFlE2qaHY
