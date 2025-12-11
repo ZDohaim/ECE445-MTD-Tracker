@@ -100,6 +100,15 @@ Meeting to start creating proposal documentation
 - New power distribution circuit using a 5V to 3.3V converter to handle input noise or spikes in current/voltage draw
   - <img width="1082" height="453" alt="image" src="https://github.com/user-attachments/assets/4c226108-d42d-43f7-bac6-084606d7628b" />
 
+# 2025-11-11 - TA Meeting
+- no new design changes, working on 3D printing (Daniel) and assembly
+
+# 2025-11-18 - TA Meeting (Mock Demo)
+- showed working PCB with programmable microcontroller and additional programming for mapping buses to the actual LED strips
+
+# 2025-11-30 - Physical Assembly
+-<img width="516" height="661" alt="image" src="https://github.com/user-attachments/assets/87ad1e1f-3b3e-4e75-bf5e-43c95f94a3c6" />
+
 
 
 
