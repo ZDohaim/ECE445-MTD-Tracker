@@ -57,6 +57,10 @@ Meeting to start creating proposal documentation
 - ESP32-S3 set up: (reference: https://documentation.espressif.com/esp32-s3-wroom-1_wroom-1u_datasheet_en.pdf)
   - <img width="527" height="686" alt="image" src="https://github.com/user-attachments/assets/28056e40-3391-4647-88ee-64e469730e14" />
   - <img width="832" height="837" alt="image" src="https://github.com/user-attachments/assets/644222f0-5182-4d3c-8a93-af31b95e1c2c" />
+  - https://www.youtube.com/watch?v=EdEwRXiQsfc
+  - https://www.youtube.com/watch?v=xK14eVJCoqU
+  - <img width="746" height="701" alt="image" src="https://github.com/user-attachments/assets/d2327905-c5ec-4503-98db-e698660a1ccd" />
+
 
 
 
