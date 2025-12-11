@@ -53,6 +53,12 @@ Meeting to start creating proposal documentation
   - Cap - https://www.digikey.com/en/products/detail/vishay-sfernice/T73YP103KT20/1587813
   - 3pin led connector - https://www.digikey.com/en/products/detail/te-connectivity-amp-connectors/282837-3/2187974?gclsrc=aw.ds&gad_source=1&gad_campaignid=20234014242&gbraid=0AAAAADrbLlhPA2MnfUI_BIzZuzQG9WJ-m&gclid=EAIaIQobChMIkLTjoJOTkAMVnUr_AR2CVDs0EAQYASABEgJeRPD_BwE
     
+# 2025-10-16 - More PCB Design Work
+- ESP32-S3 set up: (reference: https://documentation.espressif.com/esp32-s3-wroom-1_wroom-1u_datasheet_en.pdf)
+  - <img width="527" height="686" alt="image" src="https://github.com/user-attachments/assets/28056e40-3391-4647-88ee-64e469730e14" />
+  - <img width="832" height="837" alt="image" src="https://github.com/user-attachments/assets/644222f0-5182-4d3c-8a93-af31b95e1c2c" />
+
+
 
 
 
