@@ -57,9 +57,18 @@ Meeting to start creating proposal documentation
 - ESP32-S3 set up: (reference: https://documentation.espressif.com/esp32-s3-wroom-1_wroom-1u_datasheet_en.pdf)
   - <img width="527" height="686" alt="image" src="https://github.com/user-attachments/assets/28056e40-3391-4647-88ee-64e469730e14" />
   - <img width="832" height="837" alt="image" src="https://github.com/user-attachments/assets/644222f0-5182-4d3c-8a93-af31b95e1c2c" />
-  - https://www.youtube.com/watch?v=EdEwRXiQsfc
-  - https://www.youtube.com/watch?v=xK14eVJCoqU
+  - https://www.youtube.com/watch?v=EdEwRXiQsfc  (microcontroller schematic design example)
+  - https://www.youtube.com/watch?v=xK14eVJCoqU   (microcontroller schematic design example)
   - <img width="746" height="701" alt="image" src="https://github.com/user-attachments/assets/d2327905-c5ec-4503-98db-e698660a1ccd" />
+
+  - set up microcontroller based on datasheet and video references, as well as usb, boot/enable buttons, and input
+ 
+# 2025-10-18 - Power Distribution Design
+- Choose to use linear regulator for 5V to 3.3V step-down voltage from barrel jack input using
+- Datasheet: http://www.advanced-monolithic.com/pdf/ds1117.pdf
+- Preliminary Design:
+  - <img width="712" height="465" alt="image" src="https://github.com/user-attachments/assets/5ebda353-ec5f-4a4c-aca8-71256edd1a97" />
+
 
 
 
