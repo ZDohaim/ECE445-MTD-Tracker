@@ -52,7 +52,14 @@ Meeting to start creating proposal documentation
   - fuse - https://www.digikey.com/en/products/detail/bel-fuse-inc/0ZCF0500FF2A/10445775
   - Cap - https://www.digikey.com/en/products/detail/vishay-sfernice/T73YP103KT20/1587813
   - 3pin led connector - https://www.digikey.com/en/products/detail/te-connectivity-amp-connectors/282837-3/2187974?gclsrc=aw.ds&gad_source=1&gad_campaignid=20234014242&gbraid=0AAAAADrbLlhPA2MnfUI_BIzZuzQG9WJ-m&gclid=EAIaIQobChMIkLTjoJOTkAMVnUr_AR2CVDs0EAQYASABEgJeRPD_BwE
-    
+
+# 2025-10-7: TA Meeting
+- First PCB iteration due, reviewed design and submission
+- Breadboard demo 1 - showed lighting up LED with breadboard
+
+# 2025-10-14: TA Meeting
+- Design document done
+
 # 2025-10-16 - More PCB Design Work
 - ESP32-S3 set up: (reference: https://documentation.espressif.com/esp32-s3-wroom-1_wroom-1u_datasheet_en.pdf)
   - <img width="527" height="686" alt="image" src="https://github.com/user-attachments/assets/28056e40-3391-4647-88ee-64e469730e14" />
@@ -73,6 +80,19 @@ Meeting to start creating proposal documentation
   - Data sheet: https://cdn.sparkfun.com/datasheets/BreakoutBoards/Logic_Level_Bidirectional.pdf
   - Example Schematic: <img width="356" height="308" alt="image" src="https://github.com/user-attachments/assets/d434adb5-8896-40eb-8a84-61fd00842916" />
   - Implemented Design: <img width="513" height="451" alt="image" src="https://github.com/user-attachments/assets/ca971390-01ad-48ee-8f71-f20d26a920fa" />
+
+# 2025-10-20 - Photosensor Circuit
+- Use analog output for ambient lights could use digital for 0 or 1 value
+- <img width="982" height="387" alt="image" src="https://github.com/user-attachments/assets/448b1470-4001-40ef-ad34-cdfaf7915663" />
+
+# 2025-10-27 - TA Meeting: Breadboard Demo 2
+- Showed actual tracking of buses along green street
+
+# 2025-11-3 - PCB Testing
+- soldered PCB and tested
+- able to flash microcontroller via USB after trial/error and could light up debugging LEDs with code
+- linear regulators don't work with wall supply
+- 
 
 
 
