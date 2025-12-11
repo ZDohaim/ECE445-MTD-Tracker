@@ -33,16 +33,37 @@ Meeting to start creating proposal documentation
 
 # 2025-09-20
 - Basic design of the 3d model, making it simpler and figuring out size
-  
-# 2025-09-24
-- Basic design of the 3d model, making it simpler and figuring out size
 
-# 2025-09-29
-- Basic design of the 3d model, making it simpler and figuring out size
+- 
 
 # 2025-10-6 
 - Lab meeting, built out a simple breadboard with the LEDs, LED chase, button control, and photoresistor analog input.
 - Added the Arduino code
+
+
+
+# 2025-10-7
+-Started the first 3d prints to get options for scale 
+
+
+# 2025-10-14
+-Design Doc Done
+
+
+  
+# 2025-09-24
+
+
+# 2025-09-29
+
+
+
+# 2025-09-29
+
+# 2025-09-29
+
+# 2025-09-29
+
   
 
 
