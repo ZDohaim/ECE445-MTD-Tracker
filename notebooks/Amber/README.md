@@ -106,8 +106,17 @@ Meeting to start creating proposal documentation
 # 2025-11-18 - TA Meeting (Mock Demo)
 - showed working PCB with programmable microcontroller and additional programming for mapping buses to the actual LED strips
 
-# 2025-11-30 - Physical Assembly
+# 2025-11-30 - Physical Assembly Done
 -<img width="516" height="661" alt="image" src="https://github.com/user-attachments/assets/87ad1e1f-3b3e-4e75-bf5e-43c95f94a3c6" />
+
+# 2025-12-1 - Finishing Code
+- created the coordinate mappings for each street mapped onto the display via google maps and used counter code to find the LED ranges for each strip
+- example of mapping:  <img width="356" height="237" alt="image" src="https://github.com/user-attachments/assets/8c05a13c-bd78-4c55-85d3-ec88a1b84447" />
+- adjusted code for the mapping of LEDs now onto a one-way road
+
+# 2025-12-10 - Final Demo :))))
+- final design:
+  -  <img width="312" height="397" alt="image" src="https://github.com/user-attachments/assets/07ca9821-db1e-45e6-80fe-0c00541172b4" />
 
 
 
