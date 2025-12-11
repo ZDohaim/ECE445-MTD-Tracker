@@ -1,6 +1,6 @@
 # Ziad's Notebooks
 
-## Week 1-2: September 24-28, 2024
+## Week 1-2: September 29-October 5, 2025
 ### API Setup and Initial Testing
 
 **Date: 09/24/2024**
@@ -10,16 +10,12 @@
 **Tasks Completed:**
 - Registered and Received API key, from MTD and completed verification process.
 - Set up Insomnia REST client for API testing
-- Tested endpoints:
-  - `GetVehicles()` - Returns real-time bus locations
-  - `getRoutes()` - Returns list of all bus routes with colors
-  - `getShape()` - Returns GPS path points defining route shapes
+- Tested endpoints
  
 <img width="756" height="689" alt="Screenshot 2025-09-28 at 3 54 33 PM" src="https://github.com/user-attachments/assets/df7dcad6-0a2c-4683-b217-5d3e5157887f" />
 
-**Results:**
-- Successfully retrieved JSON responses from all endpoints
-- Confirmed `GetVehicles` returns ~15-25KB payload with active bus locations.
+- Retrieved JSON responses from all endpoints
+
 
 **API Response Structure:**
 ```json
@@ -40,17 +36,11 @@
 }
 ```
 
-## Week 3-4: October 1-7, 2024
+## Week 3-4: October 6-12, 2025
 ### ESP32 Integration and Breadboard Demo
 
 **Date: 10/05/2024**
-
-**Objective:** Connect ESP32-S3 to WiFi and establish HTTPS connection to MTD API
-**Software Libraries:**
-- `WiFi.h` - ESP32 WiFi connectivity
-- `HTTPClient.h` - HTTP request handling
-- `WiFiClientSecure.h` - HTTPS/TLS support
-- `ArduinoJson.h`  - JSON parsing
+**Some Issues faced: 
 
 1. **TLS Certificate Validation:** Initially failed HTTPS connection
  Used `client.setInsecure()` to bypass certificate validation (acceptable for read-only public API)
@@ -61,7 +51,7 @@
 
 
 
-## Week 5-6: October 13-20, 2024
+## Week 5-6: October 13-27, 2025
 ### GPS Mapping Algorithm and LED Integration
 **Date: 10/13/2024**
 **Objective:** Test basic LED control and display live bus data for Illini Union Bus Stop Mock Demo 2
@@ -93,25 +83,20 @@ https://github.com/user-attachments/assets/0354b601-5e5d-42b3-8681-6bb49f9fb9fd
 
 
 
-
-
-
-## Week 7-9: October 27 - November 2, 2024
+## Week 7-9: October 27 - November 2, 2025
 **Task:** Get Machine Shop Stand
 
 ### Machine Shop Coordination
 
-**Objective:** Coordinate with machine shop for custom display stand
+- Get Board so Daniel can glue 3D printed segments of the map on it. 
 
-**Items Received (11/02/2024):**
-- Board to glue 3D printed segments of hte map on
+Items from Machine Shop:
 
-Items from Machine Shop
 ![651D2E2C-DB3E-4684-9555-0176D12105F5_4_5005_c](https://github.com/user-attachments/assets/8f355cf8-3e9c-444e-8b34-a8c762bd1154)
 
 
 
-## Week 10: November 3-9, 2024
+## Week 10: November 3-9, 2025
 **Task:** Finalize Code
 
 ### GPS Mapping Algorithm Development
@@ -137,32 +122,19 @@ struct GPStoLED {
     bool reverse;
 };
 ```
+## Week 10: November 10-23, 2025
+**Task** Finalize Code
 
-**Linear Interpolation**
+### GPS Mapping, 
 
-For **East-West streets**:
-```
-t = (current_lon - minLon) / (maxLon - minLon)
-LED = start_LED + (t × LED_range)
-```
+Segmented the Longitude and Latitude incorrectly, Amber and Daniel fixed.
+Added functionality of the buttons, got stuck on the legend and holding button functionality, Daniel finalized it.
+Added photoresistor and brightness functionallity. 
+Had to adjust some Routes, since the LEDs are connected serially and where a bit random based on the direction and the actual LED segment, so Amber helped a lot with diving that up and testing.
 
-For **North-South streets**:
-```
-t = (maxLat - current_lat) / (maxLat - minLat)
-LED = start_LED + (t × LED_range)
-```
+## Week 11: December 1-11, 2024
+**Demo and Final Presentation Done** 
 
-### Animation System (removed from final product)
-```
-// 40 FPS smooth motion
-void animateBuses() {
-    for (int i = 0; i < busCount; i++) {
-        if (buses[i].current_led < buses[i].target_led) {
-            buses[i].current_led++;
-        } else if (buses[i].current_led > buses[i].target_led) {
-            buses[i].current_led--;
-        }
-    }
-}
-```
 
+
+![BUS DEMO](https://github.com/user-attachments/assets/48d127b3-604c-4d47-9ac0-51402acf2561)
