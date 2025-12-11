@@ -92,7 +92,15 @@ Meeting to start creating proposal documentation
 - soldered PCB and tested
 - able to flash microcontroller via USB after trial/error and could light up debugging LEDs with code
 - linear regulators don't work with wall supply
-- 
+- have to redesign power distribution system and microcontroller set up
+
+# 2025-11-10 - Second PCB Design
+- New microcontroller set up for EN and Boot correct oritentation:
+  -<img width="680" height="623" alt="image" src="https://github.com/user-attachments/assets/7ea9b69b-88df-4167-b60a-7c812b76f0bd" />
+- New power distribution circuit using a 5V to 3.3V converter to handle input noise or spikes in current/voltage draw
+  - <img width="1082" height="453" alt="image" src="https://github.com/user-attachments/assets/4c226108-d42d-43f7-bac6-084606d7628b" />
+
+
 
 
 
