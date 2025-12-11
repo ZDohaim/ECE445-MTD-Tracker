@@ -34,7 +34,7 @@ Meeting to start creating proposal documentation
 # 2025-09-20
 - Basic design of the 3d model, making it simpler and figuring out size
 
-- 
+- ![Example Image](3dmap.png) 
 
 # 2025-10-6 
 - Lab meeting, built out a simple breadboard with the LEDs, LED chase, button control, and photoresistor analog input.
